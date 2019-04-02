@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C010F2D62253D5B00073D4DD /* NestedStackViews.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C010F2D52253D5B00073D4DD /* NestedStackViews.storyboard */; };
 		C0E9AA322253CDB8008E8BE2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E9AA312253CDB8008E8BE2 /* AppDelegate.swift */; };
 		C0E9AA342253CDB8008E8BE2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E9AA332253CDB8008E8BE2 /* ViewController.swift */; };
 		C0E9AA372253CDB8008E8BE2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0E9AA352253CDB8008E8BE2 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C010F2D52253D5B00073D4DD /* NestedStackViews.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = NestedStackViews.storyboard; sourceTree = "<group>"; };
 		C0E9AA2E2253CDB8008E8BE2 /* StackViewsCookBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StackViewsCookBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0E9AA312253CDB8008E8BE2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C0E9AA332253CDB8008E8BE2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				C0E9AA3A2253CDBA008E8BE2 /* LaunchScreen.storyboard */,
 				C0E9AA3D2253CDBA008E8BE2 /* Info.plist */,
 				C0E9AA432253CDE0008E8BE2 /* SimpleStackViews.storyboard */,
+				C010F2D52253D5B00073D4DD /* NestedStackViews.storyboard */,
 			);
 			path = StackViewsCookBook;
 			sourceTree = "<group>";
@@ -129,6 +132,7 @@
 				C0E9AA3C2253CDBA008E8BE2 /* LaunchScreen.storyboard in Resources */,
 				C0E9AA392253CDBA008E8BE2 /* Assets.xcassets in Resources */,
 				C0E9AA372253CDB8008E8BE2 /* Main.storyboard in Resources */,
+				C010F2D62253D5B00073D4DD /* NestedStackViews.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
